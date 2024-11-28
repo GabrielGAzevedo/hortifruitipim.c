@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1732640726 source:c:\users\gabriel\desktop\pim\hortifruitpim\cadastro.c
+	<stdio.h>
+	<string.h>
+	"cadastro.h"
+
+1732633152 c:\users\gabriel\desktop\pim\hortifruitpim\cadastro.h
+
+1732640808 source:c:\users\gabriel\desktop\pim\hortifruitpim\caixa.c
+	<stdio.h>
+	"caixa.h"
+
+1732633171 c:\users\gabriel\desktop\pim\hortifruitpim\caixa.h
+	"cadastro.h"
+
+1732640808 source:c:\users\gabriel\desktop\pim\hortifruitpim\estoque.c
+	<stdio.h>
+	"estoque.h"
+
+1732633266 c:\users\gabriel\desktop\pim\hortifruitpim\estoque.h
+	"cadastro.h"
+
+1732640808 source:c:\users\gabriel\desktop\pim\hortifruitpim\fornecedores.c
+	<stdio.h>
+	<string.h>
+	"fornecedores.h"
+
+1732633289 c:\users\gabriel\desktop\pim\hortifruitpim\fornecedores.h
+
+1732641290 source:c:\users\gabriel\desktop\pim\hortifruitpim\main.c
+	<stdio.h>
+	<string.h>
+	"cadastro.h"
+	"caixa.h"
+	"estoque.h"
+	"fornecedores.h"
+	"login.h"
+
+1732640657 c:\users\gabriel\desktop\pim\hortifruitpim\login.h
+
+1732641030 source:c:\users\gabriel\desktop\pim\hortifruitpim\login.c
+	<stdio.h>
+	<string.h>
+	"login.h"
+
+1732749337 source:c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\cadastro.c
+	<stdio.h>
+	<string.h>
+	"cadastro.h"
+
+1732633152 c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\cadastro.h
+
+1732640808 source:c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\caixa.c
+	<stdio.h>
+	"caixa.h"
+
+1732633171 c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\caixa.h
+	"cadastro.h"
+
+1732640808 source:c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\estoque.c
+	<stdio.h>
+	"estoque.h"
+
+1732633266 c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\estoque.h
+	"cadastro.h"
+
+1732749487 source:c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\fornecedores.c
+	<stdio.h>
+	<string.h>
+	"fornecedores.h"
+
+1732633289 c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\fornecedores.h
+
+1732751590 source:c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\main.c
+	<stdio.h>
+	<string.h>
+	"cadastro.h"
+	"caixa.h"
+	"estoque.h"
+	"fornecedores.h"
+	"login.h"
+	"persistencia.h"
+
+1732640657 c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\login.h
+
+1732752099 source:c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\login.c
+	<stdio.h>
+	<string.h>
+	"login.h"
+
+1732752421 c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\persistencia.h
+	"cadastro.h"
+	"fornecedores.h"
+
+1732751590 source:c:\users\gabriel\onedrive\desktop\pim\hortifruitpim\persistencia.c
+	<stdio.h>
+	<string.h>
+	"cadastro.h"
+	"fornecedores.h"
+
